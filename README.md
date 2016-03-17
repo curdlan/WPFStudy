@@ -1,2 +1,2 @@
 # WPFStudy
-WPFStudy
+WPF study and git study
